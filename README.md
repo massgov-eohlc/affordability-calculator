@@ -1,2 +1,0 @@
-# Affordability Calculator
-test
