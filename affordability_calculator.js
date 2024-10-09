@@ -659,14 +659,14 @@ var TextInput = /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().forwar
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "FORM_DEFAULT": function() { return /* binding */ FORM_DEFAULT; },
-/* harmony export */   "LIMITS": function() { return /* binding */ LIMITS; },
-/* harmony export */   "PAYMENT_STANDARD_URL": function() { return /* binding */ PAYMENT_STANDARD_URL; },
-/* harmony export */   "PREFILLED": function() { return /* binding */ PREFILLED; },
-/* harmony export */   "PREFILLED_FORM_DEFAULT": function() { return /* binding */ PREFILLED_FORM_DEFAULT; },
-/* harmony export */   "PROGRAMS": function() { return /* binding */ PROGRAMS; },
-/* harmony export */   "RESULT": function() { return /* binding */ RESULT; },
-/* harmony export */   "SIZES": function() { return /* binding */ SIZES; }
+/* harmony export */   FORM_DEFAULT: function() { return /* binding */ FORM_DEFAULT; },
+/* harmony export */   LIMITS: function() { return /* binding */ LIMITS; },
+/* harmony export */   PAYMENT_STANDARD_URL: function() { return /* binding */ PAYMENT_STANDARD_URL; },
+/* harmony export */   PREFILLED: function() { return /* binding */ PREFILLED; },
+/* harmony export */   PREFILLED_FORM_DEFAULT: function() { return /* binding */ PREFILLED_FORM_DEFAULT; },
+/* harmony export */   PROGRAMS: function() { return /* binding */ PROGRAMS; },
+/* harmony export */   RESULT: function() { return /* binding */ RESULT; },
+/* harmony export */   SIZES: function() { return /* binding */ SIZES; }
 /* harmony export */ });
 // if true, pre-fill form with dummy data for development purposes.
 var PREFILLED = false;
@@ -902,16 +902,16 @@ var RESULT = {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "bedroomOptions": function() { return /* binding */ bedroomOptions; },
-/* harmony export */   "currencyFormat": function() { return /* binding */ currencyFormat; },
-/* harmony export */   "getActivePaymentStandard": function() { return /* binding */ getActivePaymentStandard; },
-/* harmony export */   "getLimitFor": function() { return /* binding */ getLimitFor; },
-/* harmony export */   "getMinUnitSize": function() { return /* binding */ getMinUnitSize; },
-/* harmony export */   "getResultForInput": function() { return /* binding */ getResultForInput; },
-/* harmony export */   "useExploreLogic": function() { return /* binding */ useExploreLogic; },
-/* harmony export */   "useFullLogic": function() { return /* binding */ useFullLogic; },
-/* harmony export */   "voucherTypeLabel": function() { return /* binding */ voucherTypeLabel; },
-/* harmony export */   "voucherTypeOptions": function() { return /* binding */ voucherTypeOptions; }
+/* harmony export */   bedroomOptions: function() { return /* binding */ bedroomOptions; },
+/* harmony export */   currencyFormat: function() { return /* binding */ currencyFormat; },
+/* harmony export */   getActivePaymentStandard: function() { return /* binding */ getActivePaymentStandard; },
+/* harmony export */   getLimitFor: function() { return /* binding */ getLimitFor; },
+/* harmony export */   getMinUnitSize: function() { return /* binding */ getMinUnitSize; },
+/* harmony export */   getResultForInput: function() { return /* binding */ getResultForInput; },
+/* harmony export */   useExploreLogic: function() { return /* binding */ useExploreLogic; },
+/* harmony export */   useFullLogic: function() { return /* binding */ useFullLogic; },
+/* harmony export */   voucherTypeLabel: function() { return /* binding */ voucherTypeLabel; },
+/* harmony export */   voucherTypeOptions: function() { return /* binding */ voucherTypeOptions; }
 /* harmony export */ });
 /* harmony import */ var lodash__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! lodash */ "../node_modules/lodash/lodash.js");
 /* harmony import */ var lodash__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(lodash__WEBPACK_IMPORTED_MODULE_0__);
